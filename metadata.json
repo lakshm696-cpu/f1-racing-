@@ -1,0 +1,6 @@
+{
+  "name": "Apex F1",
+  "description": "High-octane Formula 1 racing simulator with realistic vehicle wheel physics, hot lap time trials, telemetry HUD, pit stop strategy, and lights-out reaction trainer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
